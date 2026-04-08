@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Kansas City HVAC",
+    "phone": "+18164091987",
+    "category": "HVAC contractor",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "KC's Trusted HVAC Experts",
+      "heroSubline": "Reliable heating and cooling solutions for Kansas City homes and businesses. We handle the toughest jobs, guaranteed.",
+      "aboutTitle": "Built on Kansas City Grit",
+      "aboutText": [
+        "Kansas City HVAC started with a simple mission: to provide honest, reliable HVAC services to our neighbors. We're not just another contractor; we're part of this community, dedicated to keeping your homes comfortable year-round.",
+        "Our approach is straightforward: diagnose the problem accurately, explain the solution clearly, and execute the work flawlessly. We value integrity, transparency, and a commitment to exceeding expectations. We believe in doing the job right the first time, saving you time and money.",
+        "From Brookside to Northland, we're committed to serving the entire Kansas City metro area. We actively support local initiatives and believe in giving back to the community that has supported us. We're proud to call Kansas City home."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "HVAC emergencies don't wait, and neither do we. We're available around the clock to handle any urgent heating or cooling issues."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team consists of highly trained and certified technicians with years of experience tackling complex HVAC challenges unique to Kansas City homes."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins, so you know exactly what to expect."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. If you're not completely satisfied with our service, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Get a Free Quote Today",
+      "ctaSubline": "Contact us for reliable HVAC services in Kansas City and surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "furnace-repair-kansas-city",
+        "name": "Furnace Repair",
+        "shortDescription": "Fast, reliable furnace repair to keep your home warm through harsh KC winters.",
+        "description": "Kansas City winters demand a furnace that works. When your furnace breaks down, you need a reliable team to diagnose and fix the problem quickly. We specialize in furnace repair for all makes and models, from older units in Brookside to newer systems in Northland.\n\nWe understand the urgency of furnace repairs in the dead of winter. Our technicians are equipped to handle a wide range of issues, including faulty igniters, broken blowers, gas leaks, and thermostat malfunctions. We use only high-quality replacement parts to ensure lasting repairs.\n\nOur furnace repair process includes a thorough inspection to identify the root cause of the problem. We provide a clear explanation of the issue and a detailed estimate before any work begins. We strive to complete repairs efficiently and effectively, minimizing downtime and maximizing your comfort. Don't let a broken furnace leave you in the cold – call Kansas City HVAC for expert furnace repair.",
+        "process": [
+          "Inspect furnace components and identify the issue",
+          "Provide a detailed explanation and upfront estimate",
+          "Perform necessary repairs using quality parts",
+          "Test the furnace to ensure proper operation"
+        ],
+        "benefits": [
+          "Restored heating and comfort",
+          "Improved furnace efficiency",
+          "Extended furnace lifespan",
+          "Peace of mind during cold weather"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a furnace repair request?",
+            "answer": "We offer 24/7 emergency service and strive to respond to all repair requests as quickly as possible, typically within a few hours."
+          },
+          {
+            "question": "What types of furnaces do you repair?",
+            "answer": "We repair all makes and models of furnaces, including gas, electric, and oil furnaces. Our technicians are experienced in working with both older and newer systems."
+          },
+          {
+            "question": "How much will it cost to repair my furnace?",
+            "answer": "The cost of furnace repair depends on the nature and extent of the problem. We provide a free estimate after inspecting your furnace and diagnosing the issue."
+          }
+        ]
+      },
+      {
+        "slug": "air-conditioning-repair-kansas-city",
+        "name": "Air Conditioning Repair",
+        "shortDescription": "Keep cool during sweltering summers with our expert AC repair services.",
+        "description": "Kansas City summers can be brutal, and a malfunctioning air conditioner can make your home unbearable. We offer comprehensive AC repair services to keep your cooling system running efficiently and reliably. From older homes in Waldo to newer developments in Lee's Summit, we've seen it all.\n\nOur technicians are trained to diagnose and repair a wide range of AC problems, including refrigerant leaks, compressor failures, fan motor issues, and electrical faults. We use advanced diagnostic tools to pinpoint the source of the problem quickly and accurately.\n\nWe understand the importance of prompt AC repair during the hottest months of the year. We offer 24/7 emergency service to address urgent cooling needs. Our goal is to restore your comfort as quickly as possible while providing lasting solutions. Trust Kansas City HVAC to keep you cool and comfortable all summer long.",
+        "process": [
+          "Diagnose the AC system and identify the problem",
+          "Explain the issue and provide a detailed estimate",
+          "Repair or replace faulty components",
+          "Test the AC system to ensure proper cooling"
+        ],
+        "benefits": [
+          "Restored cooling and comfort",
+          "Improved AC efficiency",
+          "Lower energy bills",
+          "Extended AC lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs that my AC needs repair?",
+            "answer": "Common signs of AC problems include weak airflow, strange noises, warm air blowing from vents, and frequent cycling on and off."
+          },
+          {
+            "question": "How often should I have my AC serviced?",
+            "answer": "We recommend having your AC system serviced annually to ensure optimal performance and prevent costly repairs."
+          },
+          {
+            "question": "Do you offer emergency AC repair services?",
+            "answer": "Yes, we offer 24/7 emergency AC repair services to address urgent cooling needs."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-installation-kansas-city",
+        "name": "HVAC Installation",
+        "shortDescription": "Upgrade your home's comfort with expert HVAC installation services.",
+        "description": "Whether you're building a new home or replacing an outdated system, professional HVAC installation is crucial for optimal performance and energy efficiency. We offer expert HVAC installation services for all types of properties in the Kansas City area, from historic homes near Union Station to modern condos in the River Market.\n\nOur team will work closely with you to select the right HVAC system for your specific needs and budget. We take into account factors such as the size of your home, insulation levels, and climate conditions to ensure optimal performance and energy savings.\n\nWe handle all aspects of the installation process, from removing the old system to installing the new unit and connecting it to your ductwork. We ensure that all installations meet local building codes and manufacturer specifications. With Kansas City HVAC, you can trust that your new HVAC system will be installed correctly and efficiently.",
+        "process": [
+          "Assess your heating and cooling needs",
+          "Recommend the right HVAC system for your home",
+          "Install the new system according to manufacturer specifications",
+          "Test the system and ensure proper operation"
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced comfort",
+          "Quieter operation",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right HVAC system for my home?",
+            "answer": "Our team can help you assess your heating and cooling needs and recommend the best system for your specific requirements."
+          },
+          {
+            "question": "How long does HVAC installation take?",
+            "answer": "The duration of HVAC installation depends on the complexity of the project, but we strive to complete most installations within one to two days."
+          },
+          {
+            "question": "Do you offer financing options for HVAC installation?",
+            "answer": "Yes, we offer flexible financing options to make HVAC installation more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning-kansas-city",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services.",
+        "description": "Over time, dust, pollen, mold, and other contaminants can accumulate in your air ducts, compromising your indoor air quality and potentially affecting your health. We offer professional duct cleaning services to remove these pollutants and improve the air you breathe in your Kansas City home.\n\nOur duct cleaning process involves using specialized equipment to loosen and remove debris from your ductwork. We use powerful vacuums to extract the contaminants and ensure that they are safely removed from your home. We also sanitize your ducts to kill any remaining bacteria or mold.\n\nDuct cleaning can provide numerous benefits, including improved air quality, reduced allergy symptoms, and increased HVAC efficiency. If you're concerned about the air quality in your home, contact Kansas City HVAC for a professional duct cleaning service.",
+        "process": [
+          "Inspect your ductwork for contaminants",
+          "Use specialized equipment to loosen and remove debris",
+          "Vacuum the ducts to extract contaminants",
+          "Sanitize the ducts to kill bacteria and mold"
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Reduced allergy symptoms",
+          "Increased HVAC efficiency",
+          "Healthier living environment"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my ducts cleaned?",
+            "answer": "We recommend having your ducts cleaned every three to five years, or more frequently if you have allergies or pets."
+          },
+          {
+            "question": "What are the signs that my ducts need cleaning?",
+            "answer": "Signs that your ducts need cleaning include visible dust buildup around vents, musty odors, and increased allergy symptoms."
+          },
+          {
+            "question": "Is duct cleaning messy?",
+            "answer": "Our duct cleaning process is designed to minimize mess and disruption to your home. We use specialized equipment to contain the dust and debris."
+          }
+        ]
+      },
+      {
+        "slug": "heat-pump-services-kansas-city",
+        "name": "Heat Pump Services",
+        "shortDescription": "Efficient heating and cooling with our expert heat pump services.",
+        "description": "Heat pumps offer an energy-efficient alternative to traditional furnaces and air conditioners. They can provide both heating and cooling for your Kansas City home, making them a versatile and cost-effective option. We offer comprehensive heat pump services, including installation, repair, and maintenance.\n\nOur technicians are experienced in working with all types of heat pumps, including air-source, geothermal, and ductless mini-split systems. We can help you choose the right heat pump for your specific needs and ensure that it is installed correctly and efficiently.\n\nWe also provide heat pump repair services to address any issues that may arise. Whether your heat pump is not heating or cooling properly, making strange noises, or experiencing other problems, our team can diagnose and fix the issue quickly and effectively. We service heat pumps in all types of KC homes, from older homes near the Plaza to new builds in Olathe.",
+        "process": [
+          "Assess your heating and cooling needs",
+          "Recommend the right heat pump system",
+          "Install the heat pump according to manufacturer specifications",
+          "Repair and maintain heat pump systems"
+        ],
+        "benefits": [
+          "Energy-efficient heating and cooling",
+          "Reduced energy bills",
+          "Versatile performance",
+          "Environmentally friendly"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a heat pump?",
+            "answer": "Heat pumps are more energy-efficient than traditional furnaces and air conditioners, which can lead to lower energy bills. They also provide both heating and cooling, making them a versatile option."
+          },
+          {
+            "question": "How long do heat pumps last?",
+            "answer": "Heat pumps typically last 10-15 years with proper maintenance."
+          },
+          {
+            "question": "Are heat pumps effective in cold weather?",
+            "answer": "Modern heat pumps are designed to operate efficiently in cold weather conditions. However, their performance may decrease in extremely cold temperatures."
+          }
+        ]
+      },
+      {
+        "slug": "thermostat-installation-kansas-city",
+        "name": "Thermostat Installation",
+        "shortDescription": "Upgrade to a smart thermostat for greater control and energy savings.",
+        "description": "A smart thermostat can help you save money on your energy bills by allowing you to control your heating and cooling system remotely and automatically. We offer professional thermostat installation services to upgrade your Kansas City home with the latest smart technology.\n\nOur technicians can install a variety of smart thermostats, including Nest, Ecobee, and Honeywell models. We will configure the thermostat to your specific needs and show you how to use its features to maximize energy savings.\n\nWith a smart thermostat, you can adjust the temperature from your smartphone, set schedules to automatically adjust the temperature when you're away, and receive alerts if your heating or cooling system is malfunctioning. Upgrade to a smart thermostat and take control of your home's comfort and energy usage.",
+        "process": [
+          "Remove your old thermostat",
+          "Install the new smart thermostat",
+          "Connect the thermostat to your Wi-Fi network",
+          "Configure the thermostat to your preferences"
+        ],
+        "benefits": [
+          "Remote control of your HVAC system",
+          "Automated temperature schedules",
+          "Energy savings",
+          "Increased comfort"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a smart thermostat?",
+            "answer": "Smart thermostats allow you to control your HVAC system remotely, set automated schedules, and save money on your energy bills."
+          },
+          {
+            "question": "How much does thermostat installation cost?",
+            "answer": "The cost of thermostat installation depends on the type of thermostat and the complexity of the installation. Contact us for a free estimate."
+          },
+          {
+            "question": "Can I install a smart thermostat myself?",
+            "answer": "While it is possible to install a smart thermostat yourself, professional installation is recommended to ensure proper wiring and configuration."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-hvac-repair-kansas-city",
+        "name": "Emergency HVAC Repair",
+        "shortDescription": "24/7 emergency HVAC services to get your system back up and running.",
+        "description": "HVAC emergencies don't adhere to a 9-to-5 schedule, and neither do we. When your furnace quits in the middle of a January ice storm or your AC breaks down during a heatwave, you need immediate assistance. Kansas City HVAC provides 24/7 emergency HVAC repair services throughout the Kansas City metro area.\n\nOur team is prepared to handle any HVAC emergency, from frozen pipes and gas leaks to complete system failures. We arrive promptly, diagnose the problem quickly, and implement effective solutions to restore your comfort and safety. We understand the unique challenges posed by Kansas City's climate and are equipped to handle even the most complex HVAC emergencies.\n\nDon't suffer through extreme temperatures or risk further damage to your property. Contact Kansas City HVAC for fast, reliable emergency HVAC repair services. We're here to help, day or night.",
+        "process": [
+          "Respond to your emergency call promptly",
+          "Diagnose the HVAC problem quickly",
+          "Implement effective repair solutions",
+          "Ensure your system is running safely and efficiently"
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Fast response times",
+          "Expert diagnosis and repair",
+          "Restored comfort and safety"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes an HVAC emergency?",
+            "answer": "HVAC emergencies include situations that pose an immediate threat to your comfort, safety, or property, such as gas leaks, frozen pipes, or complete system failures."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to all emergency calls as quickly as possible, typically within an hour or less."
+          },
+          {
+            "question": "Do you charge extra for emergency service?",
+            "answer": "Yes, emergency service calls typically involve additional fees to account for after-hours availability and rapid response times."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Kansas City HVAC is proud to offer comprehensive heating and cooling services to the residents of Overland Park, MO. Known for its established suburban neighborhoods dating back to the 1970s, 80s, and 90s, Overland Park homes often require specific HVAC solutions to maintain comfortable temperatures year-round. We understand the unique needs of these homes and offer expert repairs, installations, and maintenance plans to ensure your system is running efficiently. \n\nOur team of experienced technicians is equipped to handle any HVAC issue, from furnace repairs during the cold winter months, including those infamous ice storms, to air conditioning maintenance to keep you cool during the hot summers. We are committed to providing prompt, reliable service at a fair price. Whether you need a new system installed or just a routine check-up, Kansas City HVAC is here to help Overland Park homeowners stay comfortable.",
+        "localContext": "Overland Park features mature neighborhoods with a mix of housing styles, requiring tailored HVAC solutions to address diverse needs and energy efficiency concerns.",
+        "nearbyAreas": [
+          "Leawood",
+          "Prairie Village",
+          "Lenexa"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Kansas City HVAC is dedicated to providing top-notch HVAC services to the growing community of Olathe, MO. With its abundance of family-friendly developments built from the 1980s through the 2000s, Olathe homes often benefit from modern, efficient HVAC systems. We specialize in installing and maintaining these systems to ensure optimal performance and energy savings.\n\nWe understand the importance of a comfortable home environment for Olathe families. Our skilled technicians are available for emergency repairs, routine maintenance, and new system installations. From battling the cold Kansas City winters and ice storms to enjoying the warm summer months, Kansas City HVAC is your trusted partner for all your heating and cooling needs. We are committed to delivering exceptional service and customer satisfaction.",
+        "localContext": "Olathe's newer family developments often feature energy-efficient homes, making HVAC system optimization crucial for maintaining comfort and managing utility costs.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Gardner",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Kansas City HVAC is proud to serve the residents of Lee's Summit, MO, with reliable and affordable HVAC services. Known for its established family homes built primarily from the 1970s through the 1990s, Lee's Summit presents a unique blend of HVAC challenges and opportunities. We offer expert repairs, installations, and maintenance plans to ensure your system is running efficiently.\n\nOur team of experienced technicians understands the specific needs of Lee's Summit homes and is equipped to handle any HVAC issue, from furnace repairs during the cold winter months and ice storms to air conditioning maintenance to keep you cool during the hot summers. We are committed to providing prompt, reliable service at a fair price. Whether you need a new system installed or just a routine check-up, Kansas City HVAC is here to help Lee's Summit homeowners stay comfortable.",
+        "localContext": "Lee's Summit's established neighborhoods with older homes often require specialized HVAC solutions to address efficiency and comfort concerns.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Independence",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "Kansas City HVAC is your trusted source for comprehensive heating and cooling services throughout Kansas City, MO. From the historic neighborhoods near downtown to the newer developments in the Northland, we provide expert repairs, installations, and maintenance for all types of HVAC systems.\n\nWe understand the diverse needs of Kansas City residents and are committed to providing prompt, reliable service at a fair price. Whether you're dealing with a broken furnace in the dead of winter or a malfunctioning air conditioner during a summer heatwave, our team is ready to help. We also offer preventative maintenance plans to keep your system running smoothly and efficiently year-round.",
+        "localContext": "Kansas City's diverse architecture and climate necessitate a wide range of HVAC solutions, from historic homes to modern buildings.",
+        "nearbyAreas": [
+          "Independence",
+          "Gladstone",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Kansas City HVAC extends its expert services to the residents of Independence, MO. We understand the unique challenges and opportunities presented by Independence's mix of historic homes and newer developments. Our team is equipped to handle any HVAC issue, from repairing older furnaces to installing energy-efficient air conditioning systems. \n\nWe are committed to providing prompt, reliable service and fair pricing to the Independence community. Whether you need emergency repairs, routine maintenance, or a complete system replacement, Kansas City HVAC is here to help you stay comfortable year-round.",
+        "localContext": "Independence's blend of historical and modern homes requires HVAC solutions tailored to diverse architectural styles and energy efficiency goals.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Blue Springs",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Kansas City HVAC is dedicated to serving the heating and cooling needs of Blue Springs, MO. As a growing community with a mix of established neighborhoods and new construction, Blue Springs residents rely on efficient and reliable HVAC systems. We offer a full range of services, including repairs, installations, and maintenance, to keep your home comfortable in any season.\n\nOur team of experienced technicians is familiar with the specific HVAC needs of Blue Springs homes. We are committed to providing prompt, professional service and ensuring your complete satisfaction. From furnace repairs to air conditioning tune-ups, Kansas City HVAC is your trusted partner for all your heating and cooling needs.",
+        "localContext": "Blue Springs' mix of housing styles requires HVAC solutions that balance affordability, efficiency, and comfort for families.",
+        "nearbyAreas": [
+          "Grain Valley",
+          "Independence",
+          "Lee's Summit"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "Kansas City HVAC proudly serves the residents of Lenexa, MO, providing top-quality heating and cooling services. Lenexa's blend of residential and commercial properties requires a diverse range of HVAC solutions, and we are equipped to handle them all. From routine maintenance to emergency repairs and new installations, we are committed to keeping your home or business comfortable year-round.\n\nOur experienced technicians understand the unique needs of Lenexa residents and businesses. We offer prompt, reliable service at competitive prices. Whether you need a new furnace installed or your air conditioner repaired, Kansas City HVAC is here to help.",
+        "localContext": "Lenexa's growing business sector and family-oriented neighborhoods require HVAC solutions that prioritize both comfort and energy efficiency.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Olathe",
+          "Shawnee"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-mo",
+        "state": "MO",
+        "content": "Kansas City HVAC is pleased to offer our comprehensive HVAC services to the community of Shawnee, MO. With a mix of older and newer homes, Shawnee residents often seek reliable and efficient heating and cooling solutions. We provide expert repairs, installations, and maintenance to ensure your HVAC system is running optimally.\n\nOur team of skilled technicians is familiar with the specific needs of Shawnee homes. We are committed to providing prompt, professional service and ensuring your complete satisfaction. Whether you need a new air conditioner installed or your furnace repaired, Kansas City HVAC is here to help you stay comfortable year-round.",
+        "localContext": "Shawnee's diverse housing stock necessitates tailored HVAC solutions, considering both energy efficiency and comfort for families.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Overland Park",
+          "Bonner Springs"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Furnace Repair",
+        "text": "Our furnace went out during the coldest week of the year. Kansas City HVAC came out within an hour and had it fixed quickly. The technician was professional and explained everything clearly. Highly recommend!",
+        "date": "2025-01-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "AC Installation",
+        "text": "We had Kansas City HVAC install a new AC unit in our home in Waldo. The installation was smooth and efficient. The team was knowledgeable and answered all of our questions. Very happy with the new unit.",
+        "date": "2024-07-22"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "I noticed a significant improvement in my indoor air quality after Kansas City HVAC cleaned my ducts. My allergies have been much better since. The crew was courteous and professional.",
+        "date": "2024-03-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Heat Pump Repair",
+        "text": "Our heat pump stopped working, and Kansas City HVAC was able to diagnose and repair the issue quickly. They saved us from having to replace the entire unit. Great service!",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Thermostat Installation",
+        "text": "Upgraded to a smart thermostat with Kansas City HVAC. The technician was very helpful in explaining the features and setting it up. It's already saving us money on our energy bills.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Robert G.",
+        "rating": 5,
+        "service": "Emergency AC Repair",
+        "text": "Our AC broke down on a Saturday night. Kansas City HVAC responded quickly and had it fixed within a couple of hours. I was so grateful for their prompt service!",
+        "date": "2024-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Kansas City HVAC | Expert Heating & Cooling",
+        "description": "Reliable HVAC services in Kansas City, MO. Furnace & AC repair, installation, duct cleaning. 24/7 emergency service. Free quotes!"
+      },
+      "about": {
+        "title": "About Kansas City HVAC | Local KC Experts",
+        "description": "Learn about Kansas City HVAC's commitment to quality service and community in the Kansas City metro area. Honest, reliable, and experienced."
+      },
+      "services": {
+        "title": "HVAC Services | Kansas City HVAC",
+        "description": "Comprehensive HVAC services in Kansas City. Furnace repair, AC installation, duct cleaning & more. Contact us for reliable solutions!"
+      },
+      "contact": {
+        "title": "Contact Kansas City HVAC | Get a Free Quote",
+        "description": "Contact Kansas City HVAC for all your heating and cooling needs. Get a free quote for HVAC repair, installation, and maintenance services."
+      },
+      "reviews": {
+        "title": "Kansas City HVAC Reviews | See What Our Clients Say",
+        "description": "Read reviews from satisfied Kansas City HVAC customers. See why we're the trusted choice for HVAC services in the KC metro area."
+      },
+      "service-areas": {
+        "title": "Kansas City HVAC Service Areas",
+        "description": "Kansas City HVAC provides expert heating and cooling services throughout the Kansas City metro area. See our service locations."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "furnace-repair-kansas-city": "/images/service-furnace-repair-kansas-city.webp",
+      "air-conditioning-repair-kansas-city": "/images/service-air-conditioning-repair-kansas-city.webp",
+      "hvac-installation-kansas-city": "/images/service-hvac-installation-kansas-city.webp",
+      "duct-cleaning-kansas-city": "/images/service-duct-cleaning-kansas-city.webp",
+      "heat-pump-services-kansas-city": "/images/service-heat-pump-services-kansas-city.webp",
+      "thermostat-installation-kansas-city": "/images/service-thermostat-installation-kansas-city.webp",
+      "emergency-hvac-repair-kansas-city": "/images/service-emergency-hvac-repair-kansas-city.webp"
+    },
+    "servicesResponsive": {
+      "furnace-repair-kansas-city": {
+        "src": "/images/service-furnace-repair-kansas-city.webp",
+        "srcset": "/images/service-furnace-repair-kansas-city-400w.webp 400w, /images/service-furnace-repair-kansas-city-800w.webp 800w, /images/service-furnace-repair-kansas-city-1200w.webp 1200w, /images/service-furnace-repair-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "air-conditioning-repair-kansas-city": {
+        "src": "/images/service-air-conditioning-repair-kansas-city.webp",
+        "srcset": "/images/service-air-conditioning-repair-kansas-city-400w.webp 400w, /images/service-air-conditioning-repair-kansas-city-800w.webp 800w, /images/service-air-conditioning-repair-kansas-city-1200w.webp 1200w, /images/service-air-conditioning-repair-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-installation-kansas-city": {
+        "src": "/images/service-hvac-installation-kansas-city.webp",
+        "srcset": "/images/service-hvac-installation-kansas-city-400w.webp 400w, /images/service-hvac-installation-kansas-city-800w.webp 800w, /images/service-hvac-installation-kansas-city-1200w.webp 1200w, /images/service-hvac-installation-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning-kansas-city": {
+        "src": "/images/service-duct-cleaning-kansas-city.webp",
+        "srcset": "/images/service-duct-cleaning-kansas-city-400w.webp 400w, /images/service-duct-cleaning-kansas-city-800w.webp 800w, /images/service-duct-cleaning-kansas-city-1200w.webp 1200w, /images/service-duct-cleaning-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heat-pump-services-kansas-city": {
+        "src": "/images/service-heat-pump-services-kansas-city.webp",
+        "srcset": "/images/service-heat-pump-services-kansas-city-400w.webp 400w, /images/service-heat-pump-services-kansas-city-800w.webp 800w, /images/service-heat-pump-services-kansas-city-1200w.webp 1200w, /images/service-heat-pump-services-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "thermostat-installation-kansas-city": {
+        "src": "/images/service-thermostat-installation-kansas-city.webp",
+        "srcset": "/images/service-thermostat-installation-kansas-city-400w.webp 400w, /images/service-thermostat-installation-kansas-city-800w.webp 800w, /images/service-thermostat-installation-kansas-city-1200w.webp 1200w, /images/service-thermostat-installation-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-hvac-repair-kansas-city": {
+        "src": "/images/service-emergency-hvac-repair-kansas-city.webp",
+        "srcset": "/images/service-emergency-hvac-repair-kansas-city-400w.webp 400w, /images/service-emergency-hvac-repair-kansas-city-800w.webp 800w, /images/service-emergency-hvac-repair-kansas-city-1200w.webp 1200w, /images/service-emergency-hvac-repair-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
